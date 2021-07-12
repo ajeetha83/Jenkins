@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.exe
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.deps.json
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.runtimeconfig.json
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.dll
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\ref\JenkinsTest.dll
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\bin\Debug\net5.0\JenkinsTest.pdb
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.dll
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\ref\JenkinsTest.dll
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.pdb
+C:\Users\Admin\RiderProjects\JenkinsTest\JenkinsTest\obj\Debug\net5.0\JenkinsTest.genruntimeconfig.cache
